@@ -1,0 +1,17 @@
+﻿Build started 6/20/2015 2:31:55 PM.
+     1>Project "C:\Users\Hades\documents\visual studio 2013\Projects\ASProj\ASProj\ASProj.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\ASProj.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ASProjDlg.cpp
+         ASProjDlg.cpp
+     1>c:\users\hades\documents\visual studio 2013\projects\asproj\asproj\asprojdlg.cpp(217): warning C4554: '&' : check operator precedence for possible error; use parentheses to clarify precedence
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Hades\documents\visual studio 2013\Projects\ASProj\Debug\ASProj.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\Hades\documents\visual studio 2013\Projects\ASProj\Debug\ASProj.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Hades\documents\visual studio 2013\Projects\ASProj\Debug\ASProj.lib" /MACHINE:X86 Debug\ASProj.res
+         Debug\ASProj.obj
+         Debug\ASProjDlg.obj
+         Debug\stdafx.obj
+         ASProj.vcxproj -> C:\Users\Hades\documents\visual studio 2013\Projects\ASProj\Debug\ASProj.exe
+     1>Done Building Project "C:\Users\Hades\documents\visual studio 2013\Projects\ASProj\ASProj\ASProj.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.97
